@@ -1,0 +1,7 @@
+C:\Users\csepu\source\repos\Camila Sepulveda\Camila Sepulveda\bin\Debug\Camila Sepulveda.exe.config
+C:\Users\csepu\source\repos\Camila Sepulveda\Camila Sepulveda\bin\Debug\Camila Sepulveda.exe
+C:\Users\csepu\source\repos\Camila Sepulveda\Camila Sepulveda\bin\Debug\Camila Sepulveda.pdb
+C:\Users\csepu\source\repos\Camila Sepulveda\Camila Sepulveda\obj\Debug\Camila Sepulveda.csprojResolveAssemblyReference.cache
+C:\Users\csepu\source\repos\Camila Sepulveda\Camila Sepulveda\obj\Debug\Camila Sepulveda.csproj.CoreCompileInputs.cache
+C:\Users\csepu\source\repos\Camila Sepulveda\Camila Sepulveda\obj\Debug\Camila Sepulveda.exe
+C:\Users\csepu\source\repos\Camila Sepulveda\Camila Sepulveda\obj\Debug\Camila Sepulveda.pdb
